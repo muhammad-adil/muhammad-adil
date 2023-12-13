@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-adil" alt="muhammad-adil" /></a> </p>
 
-- 🌱 I’m currently learning **Nodes.js, GO**
+- 🌱 I’m currently learning **Nodes.js, MongoDB and GO**
 
 - 👨‍💻 All of my projects are available at [https://muhammad-adil.com/](https://muhammad-adil.com/)
 
-- 💬 Ask me about **React and Angular**
+- 💬 Ask me about **JavaScript, React and Angular**
 
 - 📫 How to reach me **adil.muhammad93@gmail.com**
 
