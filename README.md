@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Adil</h1>
 <h3 align="center">A passionate Front-End Dev & JavaScript Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-adil&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-adil" /> </p>
+
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=muhammad-adil&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=muhammad-adil&style=for-the-badge)" alt="muhammad-adil" /> </p>
+
+![](https://komarev.com/ghpvc/?username=muhammad-adil&style=for-the-badge)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-adil" alt="muhammad-adil" /></a> </p>
 
