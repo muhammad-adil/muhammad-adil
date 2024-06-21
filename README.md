@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Adil</h1>
 <h3 align="center">A passionate Front-End Dev & JavaScript Enthusiast</h3>
-<script>
-![](https://komarev.com/ghpvc/?username=muhammad-adil&style=for-the-badge) 
-</script>
+
+![GitHub Views](https://komarev.com/ghpvc/?username=muhammad-adil&style=for-the-badge) 
+
 [![GitHub](https://img.shields.io/badge/dynamic/json?label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmuhammad-adil&longCache=true)](https://github.com/muhammad-adil) 
 ![](https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/muhammad-adil)
 
