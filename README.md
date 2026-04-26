@@ -5,11 +5,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammad-adil.muhammad-adil&"  />
 </div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-adil&label=Profile views&color=0e75b6&style=flat" alt="muhammad-adil" /> </p>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-adil&label=Profile views&color=0e75b6&style=flat" alt="muhammad-adil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-adil" alt="muhammad-adil" /></a> </p>
 
 ###
 
@@ -93,7 +88,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=muhammad-adil&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=muhammad-adil&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=muhammad-adil&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
 ###
@@ -107,6 +102,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/muhammad-adil/muhammad-adil/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/muhammad-adil/muhammad-adil/output/snake.svg" alt="Snake animation" /> -->
 
 ###
