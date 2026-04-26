@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammad-adil.muhammad-adil&"  />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-adil&label=Profile views&color=0e75b6&style=flat" alt="muhammad-adil" /> </p>
 </div>
 
 ###
